@@ -33,3 +33,15 @@ This is a simple password manager system, built in Python using the 'cryptograph
   <li>Make sure to keep the 'key.key' file safe as it is used for encryption and decryption.</li>
   <li>Do not share your 'master password' or the 'key.key' file.</li>
 </ul>
+
+## Screenshots
+### Master Password
+![first](https://github.com/SatishKumar1911/Password-Manager/assets/124880943/db649c33-27a5-4520-8e80-4cbd59c9b2e2)
+### Add
+![image](https://github.com/SatishKumar1911/Password-Manager/assets/124880943/aeffbe09-ad5e-4f3d-84c7-93ce0609d340)
+### View
+![image](https://github.com/SatishKumar1911/Password-Manager/assets/124880943/77bb0414-7ebf-410b-bd30-64ac6d2504a4)
+### Update
+![image](https://github.com/SatishKumar1911/Password-Manager/assets/124880943/45f9858c-7565-4c0d-bc93-71a0c6abfad5)
+### Delete
+![image](https://github.com/SatishKumar1911/Password-Manager/assets/124880943/e8e9e386-dfb2-46de-9a8b-cc4d0795e017)
