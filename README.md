@@ -13,7 +13,7 @@ This is a simple password manager system, built in Python using the 'cryptograph
 
 ## How to Use
 <ol>
-  <li>Clone the repository: git clone </li>
+  <li>Clone the repository: git clone https://github.com/SatishKumar1911/Password-Manager.git</li>
   <li>Select python interpreter: ./venv/bin/python</li>
   <li>Activate virtual environment: ./venv/bin/activate</li>
   <li>Install cryptography: pip install -r requirenment.txt or pip install cryptography</li>
