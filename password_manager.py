@@ -1,5 +1,6 @@
 import os
 from cryptography.fernet import Fernet
+from generate_key import master_password
 
 # Load encryption key from file
 with open("key.key", "rb") as file:
@@ -90,8 +91,9 @@ def delete():
     else:
         print("Invalid input, Please try again.")
 
+
 def check_master_password():
-    master_password_hashed = 'Satish@Kumar19'.encode() # Replace with the hash of your master password
+    master_password_hashed = master_password # Replace with the hash of your master password
     attempts = 3
 
     while attempts > 0:
